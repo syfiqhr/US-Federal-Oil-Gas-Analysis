@@ -1,7 +1,6 @@
 # 📊 U.S. Federal Oil & Gas Production & Disposition Analysis (2015–2025)
 
-This project analyzes monthly **U.S. federal oil and natural gas production** using official data from the **U.S. Department of the Interior – Office of Natural Resources Revenue (ONRR)**.  
-The dashboard focuses on production trends, geographic concentration, policy-relevant structure, and reported disposition categories.
+This project analyzes monthly **U.S. federal oil and natural gas production** using official data from the **U.S. Department of the Interior – Office of Natural Resources Revenue (ONRR)**. The dashboard focuses on production trends, geographic concentration, policy-relevant structure, and reported disposition categories.
 
 ---
 
@@ -49,7 +48,7 @@ https://www.kaggle.com/datasets/pinuto/us-oil-and-gas-production-and-disposition
 - Production trend by selected commodity
 - Year-over-year production growth (commodity-safe)
 
-![Production Overview](screenshots/production-preview.png)
+![Production Overview](screenshots/production-overview.png)
 
 ---
 
